@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lecture03_04</string>
+    <string name="leftButtonString">LEFT</string>
+    <string name="title_activity_lecture04">Lecture04</string>
+    <string name="search">Search</string>
+    <string-array name="tmnt_rank">
+        <item>None of these</item>
+        <item>Captain</item>
+        <item>Major</item>
+        <item>Colonel</item>
+        <item>Brig.</item>
+    </string-array>
+</resources>
